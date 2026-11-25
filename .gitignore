@@ -1,0 +1,8 @@
+# Generated files and local configuration
+__pycache__/
+*.py[cod]
+events.out.tfevents.*
+.env
+.env.*
+!.env.example
+.venv/
